@@ -1,5 +1,5 @@
 # FUll-Stack-Data-Science-Assignments
 Assignments Related to Python, Sql, ML,DL,NLP etc.
 
-## Python Assignments
-- [Python Basic ***(4/25)***]
+### 1. Python Assignments
+- [Python Basic ***(25/25)***]
